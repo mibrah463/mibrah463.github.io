@@ -16,6 +16,8 @@ This tutorial will cover how to format a resume in Markdown, followed by hosting
 
 
 ### Instructions
+![animated_gif](https://user-images.githubusercontent.com/76500869/199337207-ab601fa4-ed02-4d00-b0ac-c4df34e82b75.gif)
+
 **1. Install Ruby**
 * Go to the list of [Ruby Installers](https://rubyinstaller.org/downloads/) and select the latest version in the 'WITH DEVKIT' section.
 * Accept the License Agreement
